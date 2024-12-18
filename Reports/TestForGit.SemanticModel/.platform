@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "TestForGit"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "347b6824-e378-4a16-aa25-c99978e70d8c"
+  }
+}
